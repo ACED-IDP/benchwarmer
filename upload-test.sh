@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 generate_files() {
   for SIZE in 1 10 100 1000; do
