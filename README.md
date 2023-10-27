@@ -16,7 +16,7 @@ Speed tests using the `gen3-client` command:
 ➜ ./upload-test.sh gen3
 ```
 
-## Example Run (MinIO Upload/Download)
+## Speed Test Run (MinIO Upload/Download)
 
 ```sh
 ➜ ./upload-test.sh mc
@@ -38,7 +38,7 @@ Download from aced-cambridge-production/aced-cambridge-development: file-random-
 Download from aced-cambridge-production/aced-cambridge-development: file-random-contents-1000MB.txt...OK
 ```
 
-## Example Output
+## Speed Test Output
 
 ```
 Upload Test: MinIO aced-cambridge-production/aced-cambridge-development
