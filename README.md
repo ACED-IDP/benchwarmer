@@ -38,12 +38,6 @@ Download from aced-cambridge-production/aced-cambridge-development: file-random-
 Download from aced-cambridge-production/aced-cambridge-development: file-random-contents-1000MB.txt...OK
 ```
 
-## Alternatives
-- https://github.com/minio/warp
-- https://github.com/s3tester/s3tester
-- https://github.com/dvassallo/s3-benchmark
-
-
 ## Speed Test Output
 
 ```
@@ -66,3 +60,8 @@ Download Test: MinIO aced-cambridge-production/aced-cambridge-development
 - More user flags (e.g. file generation)
 - Clean up code, add comments/tests
 - Convert shell script to Python (base of [gen3_util](https://github.com/ACED-IDP/gen3_util)) for ease of development
+
+## Alternatives
+- https://github.com/minio/warp
+- https://github.com/s3tester/s3tester
+- https://github.com/dvassallo/s3-benchmark
