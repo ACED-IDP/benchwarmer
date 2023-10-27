@@ -42,16 +42,16 @@ Download from aced-cambridge-production/aced-cambridge-development: file-random-
 
 ```
 Upload Test: MinIO aced-cambridge-production/aced-cambridge-development
-1.0M    4.56s    .2MB/s
-10M     4.21s    2.4MB/s
-100M    8.10s    12.9MB/s
-1000M   39.63s   26.4MB/s
+1.0MB    4.56s    .2MB/s
+10MB     4.21s    2.4MB/s
+100MB    8.10s    12.9MB/s
+1000MB   39.63s   26.4MB/s
 
 Download Test: MinIO aced-cambridge-production/aced-cambridge-development
-1.0M    3.80s    .2MB/s
-10M     4.52s    2.3MB/s
-100M    8.48s    12.3MB/s
-1000M   47.89s   21.8MB/s
+1.0MB    3.80s    .2MB/s
+10MB     4.52s    2.3MB/s
+100MB    8.48s    12.3MB/s
+1000MB   47.89s   21.8MB/s
 ```
 
 ## TODO
