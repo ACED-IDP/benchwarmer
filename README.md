@@ -58,4 +58,5 @@ Download Test: MinIO aced-cambridge-production/aced-cambridge-development
 
 - Add download speed test support for gen3-client
 - More user flags (e.g. file generation)
-- Convert shell script to Python for ease of development 
+- Clean up code, add comments/tests
+- Convert shell script to Python (base of [gen3_util](https://github.com/ACED-IDP/gen3_util)) for ease of development
